@@ -1,0 +1,27 @@
+h1{
+    color: rgb(123, 42, 42);
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+   background-color: cyan;
+}
+*{
+    border: solid;
+    border-color: black;
+}
+.menu{
+    color:yellow;
+    background-color: green;
+   
+    
+}
+.ab{
+    color: yellow;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
